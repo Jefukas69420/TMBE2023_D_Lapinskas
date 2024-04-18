@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swx{
+  color: red;
+}
+.bg-img{
+  background-image: url('https://media.discordapp.net/attachments/417678931580157962/1221861154171912203/wardrobe-about-us.png?ex=66141de0&is=6601a8e0&hm=58b6888a81cbabe591c815b8795d4b615e0e67acf89fa70bbc75cc6e9c702217&=&format=webp&quality=lossless&width=1217&height=683');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.zmuogus{
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: 48vw;
+  background-image: url('https://cdn.discordapp.com/attachments/417678931580157962/1221865431631925380/image_2024-03-25_185627887-removebg-preview.png?ex=661421dc&is=6601acdc&hm=347d0e6d608559633a266d95f6baa35e305a489050d868887a32cc3be8cf667b&');
+}
+
+.about{
+  background-image: url('https://media.discordapp.net/attachments/417678931580157962/1221861155031748608/wardrobe-login.png?ex=66141de0&is=6601a8e0&hm=239df7f3f78fef48db9dd73dabae542aaa5e4bdc8a3627af72f5bf33a3c6cae6&=&format=webp&quality=lossless&width=1212&height=682');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
